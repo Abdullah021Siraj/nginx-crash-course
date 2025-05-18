@@ -3,6 +3,8 @@
 
 This project demonstrates how to set up an Nginx reverse proxy with SSL, load-balancing multiple Node.js applications running in Docker containers.
 
+![Architecture Diagram](./nginx-crash-course.png)
+
 ## 🧾 Overview
 
 - **Nginx** is configured to:
